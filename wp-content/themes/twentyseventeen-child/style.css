@@ -1,0 +1,65 @@
+/*
+Theme Name: Twenty Seventeen Child Theme
+Theme URI: 
+Description: A child theme of Twenty Seventeen
+Author: <Kanchan Chatrath>
+Author URI: <your website>
+Template: twentyseventeen
+Version: 0.1.0
+*/
+h4{
+    letter-spacing: .25px;
+      line-height:35px;
+      background-color:#AED6F1;  
+      text-align:centre;
+      margin-left: 5px;
+      margin-right: 5px;
+      font-family: open sans-serif;
+   
+  }
+  p{
+      letter-spacing:.5px;
+       line-height:25px;
+      text-align:left;
+      font-family:  "PT Serif";
+      
+  }
+  .site-title {
+    font-family: "Source Sans Pro";
+    }
+ 
+  .wp-block-image{
+      width: 350px;
+      height: 350px;
+      position: relative;
+      overflow: hidden;
+      border-radius: 50%;
+       }
+  .wpapap-portfolio-img-slider 
+  {
+      width: 600px;
+      height:450px
+  }
+  #top-menu{
+      background-color:#B8FAF9;
+      color:#407fff;
+      height: 60px;
+      text-align: center;
+  }
+  /* a{
+      color:#407fff;
+      height: 60px;
+      text-align: center;
+  
+  } */
+  .site-footer{
+      background-color: #B8FAF9;
+  }
+  .panel-content {
+    position: relative;
+      background-color: #EBF5FB;
+      }
+  .site-content-contain {
+      background-color: #EBF5FB;
+      position: relative;
+  }
